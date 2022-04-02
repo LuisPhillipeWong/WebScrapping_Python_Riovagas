@@ -56,11 +56,3 @@ writer.save()
 
 # --Carrega o arquivo do pandas_simple.xlsx
 df = pd.read_excel('pandas_simple.xlsx')
-
-
-'''
-    ---Modo Iterativo
-    python -i .\main.py  
-
-
-    '''
